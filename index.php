@@ -7,7 +7,7 @@ html>
         <h1>Joke story</h1>
         <p>นายยศนันทน์ กลัดแขก ชื่อเล่น ภู</p>
         <img src="EiGTn-zU4AE2-G3.jpg">
-        <img src="unnamed-o6g.jpg">
+        <img src="unnamed-o6g.png">
         <br>
         <a href="http://www.it.kmitl.ac.th">This is a link</a>
         <a href="https://portal.it.kmitl.ac.th:4081">This is a link</a>
